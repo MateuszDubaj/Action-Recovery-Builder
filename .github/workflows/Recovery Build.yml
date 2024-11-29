@@ -13,6 +13,7 @@ on:
         - 8.1
         - 7.1
         - 6.0
+        - vicky_g_vext-user-12-T2SVS33.68-21-6-3-530bc8-release-keys
         required: true
         default: android_device_motorola_vicky/tree/vicky_g_vext-user-12-T2SVS33.68-21-6-3-530bc8-release-keys
       DEVICE_TREE_URL:
